@@ -12,19 +12,19 @@ import org.junit.Test;
  */
 public class AppTest 
 {
-	@org.junit.Test
+	@Test
 	public void test1() {
 		System.out.println("hello");
 	}
-	@org.junit.Test
+	@Test
 	public void test2() {
 		System.out.println("hi");
 	}
-	@org.junit.Test
+	@Test
 	public void test3() {
 		System.out.println("test3");
 			}
-	@org.junit.Test
+	@Test
 	public void test4() {
 		System.out.println("test5");
 		//fail();
